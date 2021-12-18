@@ -18,3 +18,4 @@ for i in range(10000):
         print('finish game!')
         break
 server.close()
+hzq = []
